@@ -8,4 +8,5 @@ Check the folders for assignments for particular days.
 
 # Acknowledgements
 #Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+
 #Steve Hoover, Founder, Redwood EDA
