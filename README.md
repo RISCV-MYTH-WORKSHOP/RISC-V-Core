@@ -9,9 +9,8 @@ Check the folders for assignments for particular days.
 # Acknowledgements
 All this wouldn't have been possible without a great set of mentors guiding throughout the workshop, few notable mentions below
 
--[Kunal Ghosh][1], Co-founder, VSD Corp. Pvt. Ltd.
-
--[Steve Hoover][2], Founder, Redwood EDA
+* [Kunal Ghosh][1], Co-founder, VSD Corp. Pvt. Ltd.
+* [Steve Hoover][2], Founder, Redwood EDA
 
 [1]:https://github.com/kunalg123/ "Kunal Ghosh"
 [2]:https://github.com/stevehoover/ "Steve Hoover"
