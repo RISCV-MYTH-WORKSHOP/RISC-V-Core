@@ -16,3 +16,12 @@ All this wouldn't have been possible without a great set of mentors guiding thro
 [2]:https://github.com/stevehoover/ "Steve Hoover"
 
 # References
+
+* To understand more about Compiler options refer to [RISC V OPTIONS][1] and [GCC OPTIONS][2]
+* A simplified understanding of ABI by Kunal here
+* RISC V Calling Convention for systems programmers here
+* Redwood EDA
+* TL-X org
+
+[1]:https://www.sifive.com/blog/all-aboard-part-1-compiler-args
+[2]:https://gcc.gnu.org/onlinedocs/gcc/Option-Index.html#Option-Index_op_letter-O
