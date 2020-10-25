@@ -8,6 +8,6 @@ Check the folders for assignments for particular days.
 
 # Acknowledgements
 All this wouldn't have been possible without a great set of mentors guiding throughout the workshop, few notable mentions below
-@Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+   @Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
 
 @Steve Hoover, Founder, Redwood EDA
