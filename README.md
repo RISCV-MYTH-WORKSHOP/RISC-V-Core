@@ -5,3 +5,7 @@ For students of "Microprocessor for You in Thirty Hours" Workshop, offered by fo
 Check the folders for assignments for particular days.
 
 # Table of Contents
+
+# Acknowledgements
+Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+Steve Hoover, Founder, Redwood EDA
