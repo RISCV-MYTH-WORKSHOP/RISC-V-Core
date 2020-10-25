@@ -18,10 +18,14 @@ All this wouldn't have been possible without a great set of mentors guiding thro
 # References
 
 * To understand more about Compiler options refer to [RISC V OPTIONS][3] and [GCC OPTIONS][4]
-* A simplified understanding of ABI by Kunal here
-* RISC V Calling Convention for systems programmers here
-* Redwood EDA
-* TL-X org
+* A simplified understanding of ABI by Kunal [here][5]
+* RISC V Calling Convention for systems programmers [here][6]
+* [Redwood EDA][7]
+* [TL-X org][8]
 
 [3]:https://www.sifive.com/blog/all-aboard-part-1-compiler-args
 [4]:https://gcc.gnu.org/onlinedocs/gcc/Option-Index.html#Option-Index_op_letter-O
+[5]:https://www.vlsisystemdesign.com/abi-get-this-one-right-risc-v-is-all-yours/
+[6]:https://riscv.org/wp-content/uploads/2015/01/riscv-calling.pdf
+[7]:https://www.redwoodeda.com/
+[8]:https://tl-hdl.wixsite.com/tl-x
