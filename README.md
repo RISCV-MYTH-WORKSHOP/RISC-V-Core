@@ -11,3 +11,5 @@ All this wouldn't have been possible without a great set of mentors guiding thro
    @Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
 
 @Steve Hoover, Founder, Redwood EDA
+
+# References
