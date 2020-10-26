@@ -7,6 +7,10 @@ This repository contains all the information needed to build your RISC-V pipelin
 [10]:https://en.wikipedia.org/wiki/Toolchain
 # Table of Contents
 
+# Conclusion
+
+This project was done as a part of the RISC-V based MYTH (Microprocessor for You in Thirty Hours) workshop conducted by Kunal Ghosh and Steve Hoover. The current project implements almost the entire RV32I base instruction set. We capable of executing all RISC-V instructions in four cycles with easy pipelining using Transaction-Level Verilog. TL-Verilog not only reduces your code size significantly but allows us to freely declare signals without explicitly declaring them (just like Python does compare to C). In addition, we can generate Verilog/SystemVerilog code from TL-Verilog in Makerchip IDE which using Sandpiper complier. Future work involves modifying the current design to implement support for the remaining operations and also implementation of other standard extensions like M, F and D.
+
 # Acknowledgements
 All this wouldn't have been possible without a great set of mentors guiding throughout the workshop, few notable mentions below
 
