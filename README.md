@@ -8,7 +8,7 @@ This repository contains all the information needed to build your RISC-V pipelin
 
 # Table of Contents
 * Introduction to RISC-V ISA
-* 
+* RISCV TOOL CHAIN
 * Introduction to ABI 
 * Digital Logic with TL-Verilog and Makerchip
 * Basic RISC-V CPU micro-architecture
@@ -33,7 +33,7 @@ A RISC-V ISA is defined as a base integer ISA, which must be present in any impl
 3. Number of integer registers (32 in RISC-V)
 
 More details on RISC-V ISA can be obtained [here].
-# Overview of GNU compiler toolchain
+# RISCV TOOL CHAIN
 # Introduction to ABI and RISC-V specifications
 # Digital Logic with TL-Verilog and Makerchip
 # Basic RISC-V CPU micro-architecture
