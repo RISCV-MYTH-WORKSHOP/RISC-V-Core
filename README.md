@@ -6,6 +6,20 @@ This repository contains all the information needed to build your RISC-V pipelin
 [9]:https://www.makerchip.com/
 [10]:https://en.wikipedia.org/wiki/Toolchain
 # Table of Contents
+* Introduction to RISC-V ISA
+* Overview of GNU compiler toolchain
+* Introduction to ABI and RISC-V specifications
+* Digital Logic with TL-Verilog and Makerchip
+* Basic RISC-V CPU micro-architecture
+   Instruction Fetch and Decode
+   Register File Read and Write
+   ALU and Control Logic
+* Pipelined RISC-V CPU
+    Pipelining the CPU
+    Completing the RISC-V CPU
+* Conclusion
+* Acknowledgements
+* References
 
 # Conclusion
 
