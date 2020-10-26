@@ -11,7 +11,7 @@ This repository contains all the information needed to build your RISC-V pipelin
 * [RISC-V Tool Chain](#RISCV-Tool-Chain)
 * [Introduction to ABI](#Introduction-to-ABI) 
 * [Digital Logic with TL-Verilog and Makerchip](#Digital-Logic-with-TL-Verilog-and-Makerchip)
-* [RISC-V Core Implementation][#RISC-V-Core-Implementation]
+* [RISC-V Core Implementation](#RISC-V-Core-Implementation)
     * [Pipelining the CPU](Pipelining-the-CPU)
     * [Completing the RISC-V CPU](Completing-the-RISC-V-CPU)
 * [Conclusion](#Conclusion)
