@@ -42,24 +42,24 @@ Under the risc-v toolchain,
 
   riscv64-unknown-elf-gcc <compiler option -O1 ; Ofast> <ABI specifier -lp64; -lp32; -ilp32> <architecture specifier -RV64 ; RV32> -o <object filename> <C filename>
 
-More details on compiler options can be obtained here
+  More details on compiler options can be obtained here
 
-To view assembly code use the below command,
+* To view assembly code use the below command,
 
-riscv64-unknown-elf-objdump -d <object filename>
+  riscv64-unknown-elf-objdump -d <object filename>
 
-To use SPIKE simualtor to run risc-v obj file use the below command,
+* To use SPIKE simualtor to run risc-v obj file use the below command,
 
-spike pk <object filename>
+  spike pk <object filename>
 
-To use SPIKE as debugger
+  To use SPIKE as debugger
 
-spike -d pk <object Filename> with degub command as until pc 0 <pc of your choice>
+  spike -d pk <object Filename> with degub command as until pc 0 <pc of your choice>
 
-To install complete risc-v toolchain locally on linux machine,
+  To install complete risc-v toolchain locally on linux machine,
 
-RISC-V GNU Toolchain
-RISC-V ISA SImulator - Spike
+    * RISC-V GNU Toolchain
+    * RISC-V ISA SImulator - Spike
 Once done with installation add the PATH to .bashrc file for future use.
 # Introduction to ABI 
 
@@ -70,6 +70,29 @@ Application Binary Interface is an interface that allows application programmers
 ![alt text here](Images/Unknown.jpeg)
 
 # Digital Logic with TL-Verilog and Makerchip
+
+  * MAKERCHIP
+ 
+   Makerchip is a free online environment for developing high-quality integrated circuits. You can code, compile, simulate, and debug Verilog designs, all from your browser.    Your code, block diagrams, and waveforms are tightly integrated.
+   
+   * TL-Verilog
+         
+    Transaction Level Verilog or TL-Verilog is an extension to existing Verilog HDL and a huge step forward in coding HDL languages. TL-Verilog introduces simpler syntaxes       and adds powerful constructs which makes Logic Design fun and easy. (Also can say its a Higher Abstraction to Sys V)
+
+   Features of TL-Verilog making it unique -
+
+  TL-Verilog supports "timing abstraction" or pipelining as a fundamental language construct. Pipelines provide context for sequential logic.
+  TL-V eliminates the need to code sequential elements, such as flip-flops, explicitly.
+  Logic pipelining can be easily and safely modified to meet cycle-time targets for a particular implementation of a design, even for logic you might not think of as           pipelined. (Easiest way to implement pipeline is acheived in TL-V)
+  Generally, high-speed designs are less than half the size in TL-Verilog versus SystemVerilog without any loss in detail! More about it here
+  
+  DIGITAL DESIGN
+  
+  Below are a set of images from Makerchip showcasing the TL-V code for Combinational and sequential logic and Simulation Output. Most of the basic circuits examples can be found in Makerchip Tutorials anexhaustive list to get anyone enough information to learn the platform and TL-Verilog.
+  
+  1. GATES and MUX (AND , OR , NOT etc)
+  2. Sequential Calculator which remembers the last result, and uses it for the next calculation.
+   
 # RISC-V Core Implementation
     * Pipelining the CPU
     * Completing the RISC-V CPU
