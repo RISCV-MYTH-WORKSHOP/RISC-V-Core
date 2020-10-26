@@ -50,8 +50,13 @@ All this wouldn't have been possible without a great set of mentors guiding thro
 
 # References
 You can follow the below mentioned sites for more information regarding the particular topics.
-* RISC-V: https://riscv.org/
-* Makerchip Platform: https://makerchip.com/
-* TL-Verilog: https://www.redwoodeda.com/tl-verilog or http://tl-x.org/
-* Redwood EDA: https://www.redwoodeda.com/
-* VLSI System Design: https://www.vlsisystemdesign.com/
+* [RISC-V][21]
+* [Makerchip Platform][22]
+* [TL-Verilog][23]
+* [Redwood EDA][24]
+* [VLSI System Design[25]
+[21]: https://riscv.org/
+[22]: https://makerchip.com/
+[23]: https://www.redwoodeda.com/tl-verilog or http://tl-x.org/
+[24]: https://www.redwoodeda.com/
+[25]: https://www.vlsisystemdesign.com/
