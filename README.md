@@ -74,15 +74,9 @@ Application Binary Interface is an interface that allows application programmers
 Makerchip is a free online environment by Redwood EDA for developing high-quality integrated circuits. The online platform can be used to code, compile, simulate and debug Verilog designs all in just one tool. Access and learn from [here](http://makerchip.com/)
    
 #### TL VERILOG 
-Transaction Level Verilog or TL-Verilog is an extension to existing Verilog HDL and a huge step forward in coding HDL languages. TL-Verilog introduces simpler syntaxes and adds powerful constructs which makes Logic Design fun and easy. (Also can say its a Higher Abstraction to Sys V)
-
-Features of TL-Verilog making it unique - 
-  - TL-Verilog supports "timing abstraction" or pipelining as a fundamental language construct. Pipelines provide context for sequential logic. 
-  - TL-V eliminates the need to code sequential elements, such as flip-flops, explicitly. 
-  - Logic pipelining can be easily and safely modified to meet cycle-time targets for a particular implementation of a design, even for logic you might not think of as pipelined. (Easiest way to implement pipeline is acheived in TL-V) 
-  - Generally, high-speed designs are less than half the size in TL-Verilog versus SystemVerilog without any loss in detail! More about it [here](https://www.redwoodeda.com/tl-verilog)
+Transaction Level Verilog or TL-Verilog is an extension to existing Verilog HDL and a huge step forward in coding HDL languages. TL-Verilog introduces simpler syntaxes and adds powerful constructs which makes Logic Design fun and easy. (Also can say its a Higher Abstraction to Sys V). Generally, high-speed designs are less than half the size in TL-Verilog versus SystemVerilog without any loss in detail! More about it [here](https://www.redwoodeda.com/tl-verilog)
   
-  DIGITAL DESIGN
+ #### DIGITAL DESIGN
   
   Below are a set of images from Makerchip showcasing the TL-V code for Combinational and sequential logic and Simulation Output. Most of the basic circuits examples can be found in Makerchip Tutorials anexhaustive list to get anyone enough information to learn the platform and TL-Verilog.
   
