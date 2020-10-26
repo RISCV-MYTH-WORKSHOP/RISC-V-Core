@@ -80,7 +80,10 @@ Transaction Level Verilog or TL-Verilog is an extension to existing Verilog HDL 
   
   Below are a set of images from Makerchip showcasing the TL-V code for Combinational and sequential logic and Simulation Output. Most of the basic circuits examples can be found in Makerchip Tutorials anexhaustive list to get anyone enough information to learn the platform and TL-Verilog.
   
-  1. GATES and MUX (AND , OR , NOT etc)
+__1. GATES and MUX (AND , OR , NOT etc)__
+
+![Gates_mux](https://user-images.githubusercontent.com/14968674/92878871-22ed4400-f42a-11ea-832f-82394644f58c.png)
+
   2. Sequential Calculator which remembers the last result, and uses it for the next calculation.
   
   * Pipilelined logic
