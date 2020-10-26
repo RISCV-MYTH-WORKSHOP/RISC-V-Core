@@ -8,7 +8,7 @@ This repository contains all the information needed to build your RISC-V pipelin
 
 # Table of Contents
 * [Introduction to RISC-V ISA](#Introduction-to-RISC-V-ISA)
-* [RISCV TOOL CHAIN](#RISCV-TOOL-CHAIN)
+* [RISC-V TOOL CHAIN](#RISCV-TOOL-CHAIN)
 * Introduction to ABI 
 * Digital Logic with TL-Verilog and Makerchip
 * Basic RISC-V CPU micro-architecture
@@ -34,7 +34,7 @@ A RISC-V ISA is defined as a base integer ISA, which must be present in any impl
 
 More details on RISC-V ISA can be obtained [here].
 # RISCV TOOL CHAIN
-# Introduction to ABI and RISC-V specifications
+# Introduction to ABI 
 
 System programming involves designing and writing computer programs that allow the computer hardware to interface with the programmer and the user, leading to the effective execution of application software on the computer system. In order to achieve systems programming there needs to be an interface which communicates between software and hardware which is where the APPLICATION BINARY INTERFACE comes into play.
 
