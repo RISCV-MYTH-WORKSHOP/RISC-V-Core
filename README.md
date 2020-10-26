@@ -8,7 +8,7 @@ This repository contains all the information needed to build your RISC-V pipelin
 
 # Table of Contents
 * [Introduction to RISC-V ISA](#Introduction-to-RISC-V-ISA)
-* RISCV TOOL CHAIN
+* [RISCV TOOL CHAIN](#RISCV-TOOL-CHAIN)
 * Introduction to ABI 
 * Digital Logic with TL-Verilog and Makerchip
 * Basic RISC-V CPU micro-architecture
