@@ -8,7 +8,7 @@ This repository contains all the information needed to build your RISC-V pipelin
 # Table of Contents
 * Introduction to RISC-V ISA
 * Overview of GNU compiler toolchain
-* Introduction to ABI and RISC-V specifications
+* Introduction to ABI 
 * Digital Logic with TL-Verilog and Makerchip
 * Basic RISC-V CPU micro-architecture
     * Instruction Fetch and Decode
@@ -22,6 +22,7 @@ This repository contains all the information needed to build your RISC-V pipelin
 * References
 
 # Introduction to RISC-V ISA
+
 # Overview of GNU compiler toolchain
 # Introduction to ABI and RISC-V specifications
 # Digital Logic with TL-Verilog and Makerchip
