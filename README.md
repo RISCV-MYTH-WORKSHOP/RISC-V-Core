@@ -12,8 +12,12 @@ This repository contains all the information needed to build your RISC-V pipelin
 * [Introduction to ABI](#Introduction-to-ABI) 
 * [Digital Logic with TL-Verilog and Makerchip](#Digital-Logic-with-TL-Verilog-and-Makerchip)
 * [RISC-V Core Implementation](#RISC-V-Core-Implementation)
-    * [Pipelining the CPU](Pipelining-the-CPU)
-    * [Completing the RISC-V CPU](Completing-the-RISC-V-CPU)
+    * Program Counter Implementation 
+    * Instruction Fetch
+    * Instruction Decode
+    * ALU and Register Write of output
+    * Single Stage RISC V Core
+    * RISC V 3 Stage Pipelined Core
 * [Conclusion](#Conclusion)
 * [Acknowledgements](#Acknowledgements)
 * [References](#References)
