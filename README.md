@@ -92,6 +92,18 @@ Application Binary Interface is an interface that allows application programmers
   
   1. GATES and MUX (AND , OR , NOT etc)
   2. Sequential Calculator which remembers the last result, and uses it for the next calculation.
+  
+  * Pipilelined logic
+  
+  Timing abstract powerful feature of TL-Verilog which converts a code into pipeline stages easily. Whole code under |pipe scope with stages defined as @?
+
+Below is snapshot of 2-cycle calculator which clears the output alternatively and output of given inputs are observed at the next cycle.
+
+
+  
+  
+  
+  
    
 # RISC-V Core Implementation
     * Pipelining the CPU
