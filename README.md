@@ -70,9 +70,7 @@ Application Binary Interface is an interface that allows application programmers
 
 # Digital Logic with TL-Verilog and Makerchip
 
-  * MAKERCHIP
- 
-   Makerchip is a free online environment for developing high-quality integrated circuits. You can code, compile, simulate, and debug Verilog designs, all from your browser.    Your code, block diagrams, and waveforms are tightly integrated.
+[Makerchip](https://makerchip.com/) is a free online environment for developing high-quality integrated circuits. You can code, compile, simulate, and debug Verilog designs, all from your browser. Your code, block diagrams, and waveforms are tightly integrated.
    
    * TL-Verilog
          
