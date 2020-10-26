@@ -7,7 +7,7 @@ This repository contains all the information needed to build your RISC-V pipelin
 [10]:https://en.wikipedia.org/wiki/Toolchain
 
 # Table of Contents
-* Introduction to RISC-V ISA
+* [Introduction to RISC-V ISA](#Introduction-to-RISC-V-ISA)
 * RISCV TOOL CHAIN
 * Introduction to ABI 
 * Digital Logic with TL-Verilog and Makerchip
@@ -22,7 +22,7 @@ This repository contains all the information needed to build your RISC-V pipelin
 * Acknowledgements
 * References
 
-# Introduction to RISC-V ISA
+### Introduction to RISC-V ISA
 An Instruction Set Architecture (ISA) defines, describes, and specifies how a particular computer processor core works. The ISA describes the registers and describes each machine-level instruction. The ISA forms the interface between hardware and software. Hardware engineers design digital circuits to implement a given ISA specification. Software engineers write code (operating systems, compilers, etc.) based on a given ISA specification.
 
 
