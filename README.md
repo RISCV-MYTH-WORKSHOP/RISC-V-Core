@@ -18,9 +18,9 @@ This repository contains all the information needed to build your RISC-V pipelin
 * Pipelined RISC-V CPU
     * Pipelining the CPU
     * Completing the RISC-V CPU
-* Conclusion
-* Acknowledgements
-* References
+* [Conclusion](#Conclusion)
+* [Acknowledgements](#Acknowledgements)
+* [References](#References)
 
 # Introduction to RISC-V ISA
 An Instruction Set Architecture (ISA) defines, describes, and specifies how a particular computer processor core works. The ISA describes the registers and describes each machine-level instruction. The ISA forms the interface between hardware and software. Hardware engineers design digital circuits to implement a given ISA specification. Software engineers write code (operating systems, compilers, etc.) based on a given ISA specification.
