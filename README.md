@@ -19,7 +19,7 @@ This repository contains all the information needed to build your RISC-V pipelin
     * Completing the RISC-V CPU
 * Conclusion
 * Acknowledgements
-* References
+* [References][15]
 
 # Conclusion
 
@@ -35,7 +35,7 @@ All this wouldn't have been possible without a great set of mentors guiding thro
 [1]:https://github.com/kunalg123/ "Kunal Ghosh"
 [2]:https://github.com/stevehoover/ "Steve Hoover"
 
-# References
+# [References][15]
 You can follow the below mentioned sites for more information regarding the particular topics.
 * RISC-V: https://riscv.org/
 * Makerchip Platform: https://makerchip.com/
