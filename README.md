@@ -58,6 +58,6 @@ You can follow the below mentioned sites for more information regarding the part
 
 [21]:https://riscv.org/
 [22]:https://makerchip.com/
-[23]:https://www.redwoodeda.com/tl-verilog or http://tl-x.org/
+[23]:https://www.redwoodeda.com/tl-verilog 
 [24]:https://www.redwoodeda.com/
 [25]:https://www.vlsisystemdesign.com/
