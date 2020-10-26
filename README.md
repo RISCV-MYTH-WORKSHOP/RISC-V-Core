@@ -1,7 +1,8 @@
 # RISC-V based Microprocessor
 
-This repository contains all the information needed to build your RISC-V pipelined core, which has support of base interger RV32I instruction format using TL-Verilog on Makerchip IDE platform.
+This repository contains all the information needed to build your RISC-V pipelined core, which has support of base interger RV32I instruction format using TL-Verilog on [Makerchip IDE platform][9].
 
+[9]:https://www.makerchip.com/
 # Table of Contents
 
 # Acknowledgements
