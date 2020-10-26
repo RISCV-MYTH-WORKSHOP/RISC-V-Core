@@ -82,7 +82,7 @@ Transaction Level Verilog or TL-Verilog is an extension to existing Verilog HDL 
   
 __1. GATES and MUX (AND , OR , NOT etc)__
 
-![Gates_mux](Images/GatesandMux.jpg)
+![Gates_mux](Images/GatesandMux.jpeg)
 
 __2.Sequential Calculator which remembers the last result, and uses it for the next calculation__
 
