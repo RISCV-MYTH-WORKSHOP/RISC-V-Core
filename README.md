@@ -15,8 +15,8 @@ This repository contains all the information needed to build your RISC-V pipelin
    Register File Read and Write
    ALU and Control Logic
 * Pipelined RISC-V CPU
-    Pipelining the CPU
-    Completing the RISC-V CPU
+    * Pipelining the CPU
+    * Completing the RISC-V CPU
 * Conclusion
 * Acknowledgements
 * References
