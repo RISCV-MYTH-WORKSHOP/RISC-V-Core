@@ -11,11 +11,7 @@ This repository contains all the information needed to build your RISC-V pipelin
 * [RISC-V Tool Chain](#RISCV-Tool-Chain)
 * [Introduction to ABI](#Introduction-to-ABI) 
 * [Digital Logic with TL-Verilog and Makerchip](#Digital-Logic-with-TL-Verilog-and-Makerchip)
-* [Basic RISC-V CPU micro-architecture](#Basic-RISC-V-CPU-micro-architecture)
-    * [Instruction Fetch and Decode](Instruction-Fetch-and-Decode)
-    * [Register File Read and Write](Register-File-Read-and-Write)
-    * [ALU and Control Logic](ALU-and-Control-Logic)
-* [Pipelined RISC-V CPU](#Pipelined-RISC-V-CPU)
+* [RISC-V Core Implementation][#RISC-V-Core-Implementation]
     * [Pipelining the CPU](Pipelining-the-CPU)
     * [Completing the RISC-V CPU](Completing-the-RISC-V-CPU)
 * [Conclusion](#Conclusion)
@@ -43,8 +39,9 @@ Application Binary Interface is an interface that allows application programmers
 ![alt text here](Images/Unknown.jpeg)
 
 # Digital Logic with TL-Verilog and Makerchip
-# Basic RISC-V CPU micro-architecture
-# Pipelined RISC-V CPU
+# RISC-V Core Implementation
+    * Pipelining the CPU
+    * Completing the RISC-V CPU
 
 # Conclusion
 
