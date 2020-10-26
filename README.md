@@ -54,7 +54,7 @@ You can follow the below mentioned sites for more information regarding the part
 * [Makerchip Platform][22]
 * [TL-Verilog][23]
 * [Redwood EDA][24]
-* [VLSI System Design[25]
+* [VLSI System Design][25]
 
 [21]:https://riscv.org/
 [22]:https://makerchip.com/
