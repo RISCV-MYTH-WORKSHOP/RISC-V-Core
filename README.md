@@ -23,6 +23,8 @@ This repository contains all the information needed to build your RISC-V pipelin
 
 # Introduction to RISC-V ISA
 An Instruction Set Architecture (ISA) defines, describes, and specifies how a particular computer processor core works. The ISA describes the registers and describes each machine-level instruction. The ISA forms the interface between hardware and software. Hardware engineers design digital circuits to implement a given ISA specification. Software engineers write code (operating systems, compilers, etc.) based on a given ISA specification.
+
+
 RV32I is the base integer instruction set which is included in all the designs, the rest are termed as extension sets which can be added as demanded by the design of microprocessor.Each base integer instruction set is characterized by
 1. Width of the integer registers (XLEN)
 2. Corresponding size of the address space
