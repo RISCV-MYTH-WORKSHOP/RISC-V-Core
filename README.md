@@ -1,8 +1,6 @@
 # RISC-V_MYTH_Workshop
 
-For students of "Microprocessor for You in Thirty Hours" Workshop, offered by for VLSI System Design (VSD) and Redwood EDA, find here accompanying live info and links.
-
-Check the folders for assignments for particular days.
+This repository contains all the information needed to build your RISC-V pipelined core, which has support of base interger RV32I instruction format using TL-Verilog on Makerchip IDE platform.
 
 # Table of Contents
 
