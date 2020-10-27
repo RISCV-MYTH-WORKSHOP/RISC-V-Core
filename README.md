@@ -16,7 +16,6 @@ This repository contains all the information needed to build your RISC-V pipelin
     * [Instruction Fetch](#2.-Instruction-Fetch)
     * [Instruction Decode](#3.-Instruction-Decode)
     * [ALU and Register Write of output](#4.-Instruction-Decode)
-    * [Single Stage RISC V Core](#5.-Single-Stage-RISC-V-Core)
     * [RISC V 3 Stage Pipelined Core](#6.-RISC-V-3-Stage-Pipelined-Core)
 * [Conclusion](#Conclusion)
 * [Acknowledgements](#Acknowledgements)
@@ -143,11 +142,6 @@ Waveform showcasing BLT signal (Branch if less than) Toggle on Branch Instructio
 ![ADD_register_write](https://github.com/RISCV-MYTH-WORKSHOP/RISC-V-Core/blob/master/Images/ALU.png)
 
 
-## [5. Single Stage RISC V Core]()
-
-*A single stage implmentation of the above modules put together looks like below.*
-
-![RISCV_CORE_SINGLE_STAGE](https://user-images.githubusercontent.com/14968674/92879159-6b0c6680-f42a-11ea-834a-658afd811bbf.png)
 
 
 ## [6. RISC V 3 Stage Pipelined Core]()
