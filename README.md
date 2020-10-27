@@ -92,17 +92,21 @@ __2.Sequential Calculator which remembers the last result, and uses it for the n
 
 ![Sequential-Calculator](Images/Sequential_Calculator.png)
   
-  * Pipilelined logic
-  
-  Timing abstract powerful feature of TL-Verilog which converts a code into pipeline stages easily. Whole code under |pipe scope with stages defined as @?
+__3.Pipelined logic__
+
+Timing abstract powerful feature of TL-Verilog which converts a code into pipeline stages easily. Whole code under `|pipe` scope with stages defined as `@?`
 
 Below is snapshot of 2-cycle calculator which clears the output alternatively and output of given inputs are observed at the next cycle.
 
+![Cycle-Calculator](Images/Cycle_Calculator.png)
 
-  
-  
-  
-  
+__4.Validity__
+
+Validity is TL-verilog means signal indicates validity of transaction and described as "when" scope else it will work as don't care. Denoted as `?$valid`. Validity provides easier debug, cleaner design, better error checking, automated clock gating.
+
+Below is snapshot of 2-cycle calculator with validity. 
+
+![Cycle-Calculator-Validity](Images/Cycle_Calculator_validity.png)
    
 # RISC-V Core Implementation
 
