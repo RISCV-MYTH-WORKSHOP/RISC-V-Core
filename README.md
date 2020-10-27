@@ -13,11 +13,11 @@ This repository contains all the information needed to build your RISC-V pipelin
 * [Digital Logic with TL-Verilog and Makerchip](#Digital-Logic-with-TL-Verilog-and-Makerchip)
 * [RISC-V Core Implementation](#RISC-V-Core-Implementation)
     * [Program Counter Implementation](1.-Program-Counter-Implementation) 
-    * Instruction Fetch
-    * Instruction Decode
-    * ALU and Register Write of output
-    * Single Stage RISC V Core
-    * RISC V 3 Stage Pipelined Core
+    * [Instruction Fetch](2.-Instruction-Fetch)
+    * [Instruction Decode](3.-Instruction-Decode)
+    * [ALU and Register Write of output](4.-Instruction-Decode)
+    * [Single Stage RISC V Core](5.-Single-Stage-RISC-V-Core)
+    * [RISC V 3 Stage Pipelined Core](6.-RISC-V-3-Stage-Pipelined-Core)
 * [Conclusion](#Conclusion)
 * [Acknowledgements](#Acknowledgements)
 * [References](#References)
