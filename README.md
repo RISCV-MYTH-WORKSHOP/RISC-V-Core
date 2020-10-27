@@ -15,8 +15,8 @@ This repository contains all the information needed to build your RISC-V pipelin
     * [Program Counter Implementation](#1.-Program-Counter-Implementation) 
     * [Instruction Fetch](#2.-Instruction-Fetch)
     * [Instruction Decode](#3.-Instruction-Decode)
-    * [ALU and Register Write of output](#4.-Instruction-Decode)
-    * [RISC V 3 Stage Pipelined Core](#6.-RISC-V-3-Stage-Pipelined-Core)
+    * [Instruction Execute](#4.-Instruction-Execute)
+    * [RISC-V Pipelined Core](#5.-RISC-V-Pipelined-Core)
 * [Conclusion](#Conclusion)
 * [Acknowledgements](#Acknowledgements)
 * [References](#References)
@@ -133,7 +133,7 @@ Waveform showcasing BLT signal (Branch if less than) Toggle on Branch Instructio
 ![Instruction_Decode_Waveform](https://user-images.githubusercontent.com/14968674/92879155-69db3980-f42a-11ea-9457-c2254b092e05.png)
 
 
-## [4. ALU and Register Write of output]()
+## [4. Instruction Execute]()
 
 *An arithmetic-logic unit (ALU) is the part of the CPU that carries out arithmetic and logic operations. Below image shows an ADDI (ADD Immediate) instruction computation.*
 
@@ -144,7 +144,7 @@ Waveform showcasing BLT signal (Branch if less than) Toggle on Branch Instructio
 
 
 
-## [6. RISC V 3 Stage Pipelined Core]()
+## [5. RISC-V 3 Pipelined Core]()
 
 *The above single stage Core was enhanced to be staged across 3 stages in a pipeline, Final output where the core is computing Sum of 9 numbers and the code for the same is available [here](https://github.com/RISCV-MYTH-WORKSHOP/RISC-V-Core/blob/master/Day3_5/risc-v_solutions.tlv).*
 
