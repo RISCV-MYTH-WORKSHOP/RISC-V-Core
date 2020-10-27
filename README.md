@@ -12,7 +12,7 @@ This repository contains all the information needed to build your RISC-V pipelin
 * [Introduction to ABI](#Introduction-to-ABI) 
 * [Digital Logic with TL-Verilog and Makerchip](#Digital-Logic-with-TL-Verilog-and-Makerchip)
 * [RISC-V Core Implementation](#RISC-V-Core-Implementation)
-    * [Program Counter Implementation](#1.-Program-Counter-Implementation) 
+    * [Program Counter](#1.-Program-Counter) 
     * [Instruction Fetch](#2.-Instruction-Fetch)
     * [Instruction Decode](#3.-Instruction-Decode)
     * [Instruction Execute](#4.-Instruction-Execute)
@@ -109,7 +109,7 @@ Below is snapshot of 2-cycle calculator with validity.
    
 # RISC-V Core Implementation
 
-#### [1. Program Counter Implementation]()
+#### [1. Program Counter]()
    The program counter (PC), commonly called the instruction pointer (IP) is a counter in a processor that indicates where a computer is in its program. PC jumps 4bytes at a time as each instruction is 32bits in RV32.*
 
 ![RISCV_CPU_PC_Implmentation](Images/Program_counter_imp.png)
@@ -144,7 +144,7 @@ Waveform showcasing BLT signal (Branch if less than) Toggle on Branch Instructio
 
 
 
-## [5. RISC-V 3 Pipelined Core]()
+## [5. RISC-V Pipelined Core]()
 
 *The above single stage Core was enhanced to be staged across 3 stages in a pipeline, Final output where the core is computing Sum of 9 numbers and the code for the same is available [here](https://github.com/RISCV-MYTH-WORKSHOP/RISC-V-Core/blob/master/Day3_5/risc-v_solutions.tlv).*
 
