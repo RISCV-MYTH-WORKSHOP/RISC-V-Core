@@ -154,7 +154,7 @@ Waveform showcasing BLT signal (Branch if less than) Toggle on Branch Instructio
 
 *The above single stage Core was enhanced to be staged across 3 stages in a pipeline, Final output where the core is computing Sum of 9 numbers and the code for the same is available [here](https://github.com/RISCV-MYTH-WORKSHOP/RISC-V-Core/blob/master/Day3_5/risc-v_solutions.tlv).*
 
-![RISCV_CPU_CORE](https://user-images.githubusercontent.com/14968674/92879163-6c3d9380-f42a-11ea-9f67-ef71d37147f5.png)
+![RISCV_CPU_CORE](https://github.com/RISCV-MYTH-WORKSHOP/RISC-V-Core/blob/master/Images/RISC%20V%203%20Stage%20Pipelined%20Core.png)
 
 # Conclusion
 
