@@ -140,7 +140,7 @@ Waveform showcasing BLT signal (Branch if less than) Toggle on Branch Instructio
 
 *A unique feature of makerchip yet to be released to public is VIZ (Visualization), it helps analyze the implementation visually thereby developers can understand how instructions are executed and which registers is at play during transactions and the final register output.*
 
-![ADD_register_write](https://user-images.githubusercontent.com/14968674/92874117-5b3e5380-f425-11ea-9c86-b9bac0d465f1.png)
+![ADD_register_write](https://github.com/RISCV-MYTH-WORKSHOP/RISC-V-Core/blob/master/Images/ALU.png)
 
 
 ## [5. Single Stage RISC V Core]()
