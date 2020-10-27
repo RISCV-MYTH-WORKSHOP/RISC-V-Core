@@ -123,7 +123,7 @@ Below is snapshot of 2-cycle calculator which clears the output alternatively an
 
 *The decoding stage allows the CPU to determine what instruction is to be performed so that the CPU can tell how many operands it needs to fetch in order to perform the instruction. The opcode fetched from the memory is decoded for the next steps and moved to the appropriate registers. Below image shows hoe decode is determining the TYPE OF RISC V instructions set (Various types of Instructions in RV32 are I, R, S, J, U)*
 
-![Screenshot from 2020-08-30 03-52-41](https://user-images.githubusercontent.com/14968674/92879174-6f388400-f42a-11ea-9c5d-1ea893de88ba.png)
+![Screenshot from 2020-08-30 03-52-41](Images/Instruction_decode.png)
 
 Waveform showcasing BLT signal (Branch if less than) Toggle on Branch Instruction decode. 
 
