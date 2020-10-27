@@ -73,13 +73,13 @@ Application Binary Interface is an interface that allows application programmers
 
 # Digital Logic with TL-Verilog and Makerchip
 
-#### MAKERCHIP 
+## [MAKERCHIP]() 
 Makerchip is a free online environment by Redwood EDA for developing high-quality integrated circuits. The online platform can be used to code, compile, simulate and debug Verilog designs all in just one tool. Access and learn from [here](http://makerchip.com/)
    
-#### TL VERILOG 
+## [TL VERILOG]() 
 Transaction Level Verilog or TL-Verilog is an extension to existing Verilog HDL and a huge step forward in coding HDL languages. TL-Verilog introduces simpler syntaxes and adds powerful constructs which makes Logic Design fun and easy. (Also can say its a Higher Abstraction to Sys V). Generally, high-speed designs are less than half the size in TL-Verilog versus SystemVerilog without any loss in detail! More about it [here](https://www.redwoodeda.com/tl-verilog)
   
- #### DIGITAL DESIGN
+ ## [DIGITAL DESIGN]()
   
   Below are a set of images from Makerchip showcasing the TL-V code for Combinational and sequential logic and Simulation Output. Most of the basic circuits examples can be found in Makerchip Tutorials anexhaustive list to get anyone enough information to learn the platform and TL-Verilog.
   
@@ -112,7 +112,7 @@ Below is snapshot of 2-cycle calculator with validity.
 Designing the basic processor of 3 stages fetch, decode and execute based on RISC-V ISA.
 
 ## [Program Counter]()
-   The program counter (PC), commonly called the instruction pointer (IP) is a counter in a processor that indicates where a computer is in its program. PC jumps 4bytes at a time as each instruction is 32bits in RV32.*
+   The program counter (PC), commonly called the instruction pointer (IP) is a counter in a processor that indicates where a computer is in its program. PC jumps 4bytes at a time as each instruction is 32bits in RV32.
 
 ![RISCV_CPU_PC_Implmentation](Images/Program_counter_imp.png)
 
@@ -147,6 +147,8 @@ Waveform showcasing BLT signal (Branch if less than) Toggle on Branch Instructio
 
 
 ## [RISC-V Pipelined Core]()
+
+*Converting non-piepleined CPU to pipelined CPU using timing abstract feature of TL-Verilog. This allows easy retiming wihtout any risk of funcational bugs.
 
 *The Core was enhanced to be staged across multi-stages in a pipeline, Final output where the core is computing Sum of 9 numbers and the code for the same is available [here](https://github.com/RISCV-MYTH-WORKSHOP/RISC-V-Core/blob/master/Day3_5/risc-v_solutions.tlv).*
 
