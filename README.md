@@ -110,7 +110,7 @@ Below is snapshot of 2-cycle calculator with validity.
    
 # RISC-V Core Implementation
 
-## [1. Program Counter Implementation]()
+#### [1. Program Counter Implementation]()
    The program counter (PC), commonly called the instruction pointer (IP) is a counter in a processor that indicates where a computer is in its program. PC jumps 4bytes at a time as each instruction is 32bits in RV32.*
 
 ![RISCV_CPU_PC_Implmentation](Images/Program_counter_imp.png)
