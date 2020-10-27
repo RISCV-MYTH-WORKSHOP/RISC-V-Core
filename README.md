@@ -106,19 +106,17 @@ Below is snapshot of 2-cycle calculator which clears the output alternatively an
    
 # RISC-V Core Implementation
 
-Designing the basic processor of 3 stages fetch, decode and execute based on RISC-V ISA.
-
 ## [1. Program Counter Implementation]()
    The program counter (PC), commonly called the instruction pointer (IP) is a counter in a processor that indicates where a computer is in its program. PC jumps 4bytes at a time as each instruction is 32bits in RV32.*
 
-![RISCV_CPU_PC_Implmentation](https://user-images.githubusercontent.com/14968674/92879167-6cd62a00-f42a-11ea-8628-0f62f12a5003.png)
+![RISCV_CPU_PC_Implmentation](Images/Program_counter_imp.png)
 
 
 ## [2. Instruction Fetch]()
 
 *The instruction fetch unit (IFU) in a central processing unit (CPU) is responsible for organising program instructions to be fetched from memory, and executed, in an appropriate order. This makes the control logic of the core.*
 
-![CPU_Instruction_cycle_diagram](https://user-images.githubusercontent.com/14968674/92879147-6942a300-f42a-11ea-8e62-355b95c9955a.png)
+![CPU_Instruction_cycle_diagram](Images/Instruction_fetch.png)
 
 
 ## [3. Instruction Decode]()
