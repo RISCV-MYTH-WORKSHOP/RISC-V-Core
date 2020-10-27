@@ -12,11 +12,11 @@ This repository contains all the information needed to build your RISC-V pipelin
 * [Introduction to ABI](#Introduction-to-ABI) 
 * [Digital Logic with TL-Verilog and Makerchip](#Digital-Logic-with-TL-Verilog-and-Makerchip)
 * [RISC-V Core Implementation](#RISC-V-Core-Implementation)
-    * [Program Counter](#1.-Program-Counter) 
-    * [Fetch](#2.-Fetch)
-    * [Decode](#3.-Decode)
-    * [Execute](#4.-Execute)
-    * [RISC-V Pipelined Core](#5.-RISC-V-Pipelined-Core)
+    * [Program Counter](#Program-Counter) 
+    * [Fetch](#Fetch)
+    * [Decode](#Decode)
+    * [Execute](#Execute)
+    * [RISC-V Pipelined Core](#RISC-V-Pipelined-Core)
 * [Conclusion](#Conclusion)
 * [Acknowledgements](#Acknowledgements)
 * [References](#References)
@@ -111,20 +111,20 @@ Below is snapshot of 2-cycle calculator with validity.
 
 Designing the basic processor of 3 stages fetch, decode and execute based on RISC-V ISA.
 
-#### [1. Program Counter]()
+## [Program Counter]()
    The program counter (PC), commonly called the instruction pointer (IP) is a counter in a processor that indicates where a computer is in its program. PC jumps 4bytes at a time as each instruction is 32bits in RV32.*
 
 ![RISCV_CPU_PC_Implmentation](Images/Program_counter_imp.png)
 
 
-## [2. Fetch]()
+## [Fetch]()
 
 *The instruction fetch unit (IFU) in a central processing unit (CPU) is responsible for organising program instructions to be fetched from memory, and executed, in an appropriate order. This makes the control logic of the core.*
 
 ![CPU_Instruction_cycle_diagram](Images/Instruction_fetch.png)
 
 
-## [3. Decode]()
+## [Decode]()
 
 *The decoding stage allows the CPU to determine what instruction is to be performed so that the CPU can tell how many operands it needs to fetch in order to perform the instruction. The opcode fetched from the memory is decoded for the next steps and moved to the appropriate registers. Below image shows hoe decode is determining the TYPE OF RISC V instructions set (Various types of Instructions in RV32 are I, R, S, J, U)*
 
@@ -135,7 +135,7 @@ Waveform showcasing BLT signal (Branch if less than) Toggle on Branch Instructio
 ![Instruction_Decode_Waveform](https://user-images.githubusercontent.com/14968674/92879155-69db3980-f42a-11ea-9457-c2254b092e05.png)
 
 
-## [4. Execute]()
+## [Execute]()
 
 *An arithmetic-logic unit (ALU) is the part of the CPU that carries out arithmetic and logic operations. Below image shows an ADDI (ADD Immediate) instruction computation.*
 
@@ -146,7 +146,7 @@ Waveform showcasing BLT signal (Branch if less than) Toggle on Branch Instructio
 
 
 
-## [5. RISC-V Pipelined Core]()
+## [RISC-V Pipelined Core]()
 
 *The Core was enhanced to be staged across multi-stages in a pipeline, Final output where the core is computing Sum of 9 numbers and the code for the same is available [here](https://github.com/RISCV-MYTH-WORKSHOP/RISC-V-Core/blob/master/Day3_5/risc-v_solutions.tlv).*
 
